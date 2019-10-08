@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     EditText edtNom;
     Button button3;
+    Button button4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
